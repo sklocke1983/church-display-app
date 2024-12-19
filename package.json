@@ -1,0 +1,19 @@
+
+{
+  "name": "church-display-app",
+  "version": "1.0.0",
+  "description": "Simple app to display church information on a TV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "qrcode": "^1.5.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
